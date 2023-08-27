@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Himalaya Gupta</h1>
 <h5 align="center">
-I’m a software developer and like to create awesome things with JS/TS. I am a startup enthusiast, web developer, and avid book reader. 
+I’m a software developer and like to create awesome things with Javascript. I am a startup enthusiast, web developer, and avid book reader. 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himalaya0035&label=Profile%20views&color=0e75b6&style=flat" alt="Himalaya" /> </p>
 <p>
