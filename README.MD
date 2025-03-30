@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Himalaya Gupta</h1>
 <h5 align="center">
-I’m a software developer and like to create awesome things with Javascript. I am a startup enthusiast, web developer, and avid book reader. 
+Results-driven Full-Stack Developer with 2+ years of experience specializing in the MERN stack. Proficient in TypeScript and skilled at building scalable, high-performance applications. Strong problem-solving abilities with a track record of optimizing performance, enhancing security, and driving key business impact. Adept at leading teams, delivering complex features end-to-end, and ensuring timely execution. Passionate about writing clean, maintainable code and implementing best practices to build robust, efficient solutions. 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himalaya0035&label=Profile%20views&color=0e75b6&style=flat" alt="Himalaya" /> </p>
 <p>
